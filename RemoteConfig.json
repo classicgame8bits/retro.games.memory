@@ -11,7 +11,7 @@
   "numberPressToShowAds": 15,
   "showBannerMenu": false,
   "showBannerPlay": false,
-  "requireInternetToPlay": false,
+  "requireInternetToPlay": true,
   "showNewGames": false,
   "newGames": [
     {
